@@ -1,0 +1,30 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración local de editores
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.tmp
+
+# Puntos de control de Jupyter
+.ipynb_checkpoints/
+
+# Archivos auxiliares generados por LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
